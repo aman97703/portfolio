@@ -32,6 +32,7 @@ const Profile = () => {
                                         loop={Infinity}
                                         steps={[
                                             "Aman Gupta Dev 🔴", 1200,
+                                            "Software Developer 😍", 1200,
                                             "Frontend Developer 😎", 1200,
                                             "Mern Stack Dev 💻", 1200,
                                             "React Js Developer 😍", 1200,

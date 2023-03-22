@@ -11,7 +11,6 @@ const Home = () => {
                 <Navbar/>
                 <Profile/>
                 <Footer/>
-                
             </div>
         </>
     )
